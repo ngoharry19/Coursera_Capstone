@@ -7,3 +7,5 @@ You can view my Python notebook and report by clicking the links below:
 
 I also made a follow-up for my capstone project, which focuses on food venues in Sydney:
 - [Clustering_Food_Venues_in_Sydney.ipynb](https://github.com/ngoharry19/Coursera_Capstone/blob/master/Clustering_Food_Venues_in_Sydney.ipynb)
+
+[sydney_trains.csv](https://github.com/ngoharry19/Coursera_Capstone/blob/master/sydney_trains.csv) containing all Sydney Metro stations and their respective locations in latitude and longitude.
